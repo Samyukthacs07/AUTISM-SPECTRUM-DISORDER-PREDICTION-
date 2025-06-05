@@ -85,7 +85,7 @@ pip install pandas scikit-learn keras tensorflow
 
 ## 📬 Contact
 
-Created by **\[Your Name]**
+Created by **\[SAMYUKTHA SASIKUMAR]**
 📧 Email: [SAMYUKTHASASIKUMAR0061@GMAIL.COM](mailto:SAMYUKTHASASIKUMAR0061@GMAIL.COM)
 🔗 GitHub: [Samyukthacs07](https://github.com/Samyukthacs07)
 
