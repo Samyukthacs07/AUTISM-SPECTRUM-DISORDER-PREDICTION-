@@ -1,7 +1,3 @@
-# AUTISM-SPECTRUM-DISORDER-PREDICTION
-Thanks! Your notebook appears to focus on **Autism Spectrum Disorder (ASD) prediction** using a deep learning model (an autoencoder structure in Keras) based on binary features (A1\_Score to A9\_Score). Here's a tailored `README.md` based on the code and structure:
-
----
 
 # 🧠 ASD Prediction Using Deep Learning
 
